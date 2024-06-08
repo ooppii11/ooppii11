@@ -34,7 +34,7 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
 
   <b>Frameworks:</b><br>
-  <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Xamarin-logo.svg/1200px-Xamarin-logo.svg.png" alt="xamarin" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/471641515756769282/RDXWoY7W_400x400.png" alt="xamarin" width="40" height="40"/></a>
   <a href="https://grpc.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="grpc" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
