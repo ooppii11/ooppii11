@@ -52,20 +52,20 @@
 <p align="left">
   
   <b>Web Traffic Analysis:</b><br>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="40" height="40"/></a>
-  <a href="https://www.telerik.com/fiddler" target="_blank" rel="noreferrer"><img src="https://static.telerik.com/fiddler/fiddler-everywhere.png" alt="Fiddler" width="40" height="40"/></a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/6233056?s=280&v=4" alt="Wireshark" width="40" height="40"/></a>
+  <a href="https://www.telerik.com/fiddler" target="_blank" rel="noreferrer"><img src="https://blog.moabdelfattah.com/wp-content/uploads/2018/09/fiddler.png" alt="Fiddler" width="40" height="40"/></a>
   
   <b>Reverse Engineering:</b><br>
-  <a href="https://hex-rays.com/ida-pro/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ida/ida-original.svg" alt="IDA" width="40" height="40"/></a>
-  <a href="https://ghidra-sre.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ghidra/ghidra-original.svg" alt="Ghidra" width="40" height="40"/></a>
+  <a href="https://hex-rays.com/ida-pro/" target="_blank" rel="noreferrer"><img src="https://static.miraheze.org/zenithwiki/0/0d/IDAIcon.png" alt="IDA" width="40" height="40"/></a>
+  <a href="https://ghidra-sre.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/512px-Ghidra_logo.svg.png" alt="Ghidra" width="40" height="40"/></a>
   
   <b>Penetration Testing:</b><br>
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" alt="Nmap" width="40" height="40"/></a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-original.svg" alt="Burp Suite" width="40" height="40"/></a>
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vbkndf2gRS3v-7lormlTG_irfzTUQHd6-g&s" alt="Nmap" width="40" height="40"/></a>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Burpsuite.png" alt="Burp Suite" width="40" height="40"/></a>
   
   <b>Cryptography Concepts & Algorithms:</b><br>
-  <a href="https://en.wikipedia.org/wiki/Advanced_Encryption_Standard" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/AES_encryption_key_schedule.png/800px-AES_encryption_key_schedule.png" alt="AES" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/RSA_(cryptosystem)" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/RSA_algorithm.svg/800px-RSA_algorithm.svg.png" alt="RSA" width="40" height="40
+  <a href="https://en.wikipedia.org/wiki/Advanced_Encryption_Standard" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMjLgC-ENYX0CWK87kjLWROEtJ-VtzLL6kYA&s" alt="AES" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/RSA_(cryptosystem)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/RSA_algorithm.svg/800px-RSA_algorithm.svg.png" alt="RSA" width="40" height="40/> </a>
 
 
 
