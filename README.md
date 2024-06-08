@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/itamar-levy-936988278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/itamar-levy-936988278/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools & Cybersecurity:</h3>
 <p align="left">
   
   <b>Languages:</b><br>
@@ -46,13 +46,7 @@
 
   <b>Operating Systems:</b><br>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
-</p>
 
-
-
-<h3 align="left">Cybersecurity Skills:</h3>
-<p align="left">
-  
   <b>Web Traffic Analysis:</b><br>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/6233056?s=280&v=4" alt="Wireshark" width="40" height="40"/></a>
   <a href="https://www.telerik.com/fiddler" target="_blank" rel="noreferrer"><img src="https://blog.moabdelfattah.com/wp-content/uploads/2018/09/fiddler.png" alt="Fiddler" width="40" height="40"/></a>
@@ -64,15 +58,6 @@
   <b>Penetration Testing:</b><br>
   <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vbkndf2gRS3v-7lormlTG_irfzTUQHd6-g&s" alt="Nmap" width="40" height="40"/></a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Burpsuite.png" alt="Burp Suite" width="40" height="40"/></a>
-  
-  <b>Cryptography Concepts & Algorithms:</b><br>
-  <a href="https://en.wikipedia.org/wiki/Advanced_Encryption_Standard" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMjLgC-ENYX0CWK87kjLWROEtJ-VtzLL6kYA&s" alt="AES" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/RSA_(cryptosystem)" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/820/109/png-transparent-rsa-security-hd-logo-thumbnail.png" alt="RSA" width="40" height="40"/> </a>
-
-
-
-
-
-
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ooppii11&show_icons=true&locale=en&layout=compact" alt="ooppii11" /></p>
