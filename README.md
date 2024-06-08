@@ -48,9 +48,6 @@
   <a href="https://hex-rays.com/ida-pro/" target="_blank" rel="noreferrer"><img src="https://static.miraheze.org/zenithwiki/0/0d/IDAIcon.png" alt="IDA" width="40" height="40"/></a>
   <a href="https://ghidra-sre.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/512px-Ghidra_logo.svg.png" alt="Ghidra" width="40" height="40"/></a>
   
-  <b>Penetration Testing:</b><br>
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vbkndf2gRS3v-7lormlTG_irfzTUQHd6-g&s" alt="Nmap" width="40" height="40"/></a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Burpsuite.png" alt="Burp Suite" width="40" height="40"/></a>
   
   <b>General Tools:</b><br>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
