@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/itamar-levy-936988278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/itamar-levy-936988278/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools & Cybersecurity:</h3>
+<h3 align="left">Languages and Cybersecurity & Tools:</h3>
 <p align="left">
   
   <b>Languages:</b><br>
@@ -39,14 +39,7 @@
   <a href="https://grpc.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="grpc" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-
-  <b>General Tools:</b><br>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-
-  <b>Operating Systems:</b><br>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
-
+  
   <b>Web Traffic Analysis:</b><br>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/6233056?s=280&v=4" alt="Wireshark" width="40" height="40"/></a>
   <a href="https://www.telerik.com/fiddler" target="_blank" rel="noreferrer"><img src="https://blog.moabdelfattah.com/wp-content/uploads/2018/09/fiddler.png" alt="Fiddler" width="40" height="40"/></a>
@@ -58,6 +51,15 @@
   <b>Penetration Testing:</b><br>
   <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vbkndf2gRS3v-7lormlTG_irfzTUQHd6-g&s" alt="Nmap" width="40" height="40"/></a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Burpsuite.png" alt="Burp Suite" width="40" height="40"/></a>
+  
+  <b>General Tools:</b><br>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+
+  <b>Operating Systems:</b><br>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
+
+  
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ooppii11&show_icons=true&locale=en&layout=compact" alt="ooppii11" /></p>
