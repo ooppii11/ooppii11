@@ -36,7 +36,7 @@
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
   
-  <b>Web Traffic Analysis:</b><br>
+  <b>Traffic Analysis:</b><br>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/6233056?s=280&v=4" alt="Wireshark" width="40" height="40"/></a>
   <a href="https://www.telerik.com/fiddler" target="_blank" rel="noreferrer"><img src="https://blog.moabdelfattah.com/wp-content/uploads/2018/09/fiddler.png" alt="Fiddler" width="40" height="40"/></a>
   
