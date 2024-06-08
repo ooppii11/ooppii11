@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ooppii11&label=Profile%20views&color=0e75b6&style=flat" alt="ooppii11" /> </p>
 
-- 🔭 I’m currently working on **My own Library with useful Algorithms and Concepts such as AES, RSA, P2P, Raft consensus**
+- 🔭 I’m currently working on **My own Library with useful Algorithms and Concepts such as AES, RSA, P2P, Raft consensus and more**
 
 - 🌱 I’m currently learning **About Cryptography Algorithms implementations & Concepts**
 
