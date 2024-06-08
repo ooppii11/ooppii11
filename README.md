@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Itamar</h1>
-<h3 align="center">Hey, I am a Software Developer with a passion for Cybersecurity.</h3>
+<h3 align="center">I am a Software Developer with a passion for Cybersecurity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ooppii11&label=Profile%20views&color=0e75b6&style=flat" alt="ooppii11" /> </p>
 
