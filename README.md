@@ -67,7 +67,7 @@
   
   <b>Cryptography Concepts & Algorithms:</b><br>
   <a href="https://en.wikipedia.org/wiki/Advanced_Encryption_Standard" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMjLgC-ENYX0CWK87kjLWROEtJ-VtzLL6kYA&s" alt="AES" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/RSA_(cryptosystem)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/RSA_algorithm.svg/800px-RSA_algorithm.svg.png" alt="RSA" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/RSA_(cryptosystem)" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/820/109/png-transparent-rsa-security-hd-logo-thumbnail.png" alt="RSA" width="40" height="40"/> </a>
 
 
 
