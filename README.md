@@ -42,7 +42,7 @@
   
   <b>Reverse Engineering:</b><br>
   <a href="https://hex-rays.com/ida-pro/" target="_blank" rel="noreferrer"><img src="https://static.miraheze.org/zenithwiki/0/0d/IDAIcon.png" alt="IDA" width="40" height="40"/></a>
-  <a href="https://ghidra-sre.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/512px-Ghidra_logo.svg.png" alt="Ghidra" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Ghidra" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/512px-Ghidra_logo.svg.png" alt="Ghidra" width="40" height="40"/></a>
   
   
   <b>General Tools:</b><br>
