@@ -8,5 +8,3 @@
 - 🌱 I’m currently learning **About Cryptography Algorithms implementations & Concepts**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ooppii11](https://github.com/ooppii11)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ooppii11&show_icons=true&locale=en&layout=compact" alt="ooppii11" /></p>
